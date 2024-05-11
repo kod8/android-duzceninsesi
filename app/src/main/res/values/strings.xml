@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Düzcenin Sesi</string>
+    <string name="cancel">Çıkış</string>
+    <string name="rety">Tekrar Dene</string>
+    <string name="back">Geri</string>
+    <string name="yes">Evet</string>
+    <string name="no">Hayır</string>
+    <string name="warning">Uyarı</string>
+    <string name="msg_no_internet">Uygulamanın çalışması için internet erişimi olmak zorundadır.</string>
+    <string name="default_encoding">text/plain</string>
+    <string name="fa_icon_android">&#xf17b;</string>
+</resources>

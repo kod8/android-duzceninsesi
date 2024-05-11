@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/menu">
+
+    <item
+        android:id="@+id/menuNav"
+        android:icon="@drawable/ic_baseline_menu_24"
+        android:title="menuNav"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/menuHome"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="menuHome"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/yazar"
+        android:icon="@drawable/ic_baseline_writers_24"
+        android:title="yazar"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/videohaber"
+        android:icon="@drawable/ic_baseline_videocam_24"
+        android:title="videohaber"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/yorum"
+        android:icon="@drawable/ic_baseline_comment_24"
+        android:title="yorum"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/arsiv"
+        android:icon="@drawable/ic_baseline_all_inbox_24"
+        android:title="arsiv"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/canli"
+        android:icon="@drawable/ic_baseline_live_24"
+        android:title="canli"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/gazete"
+        android:icon="@drawable/ic_baseline_backup_table_24"
+        android:title="gazete"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/notification"
+        android:icon="@drawable/ic_baseline_settings_24"
+        android:title="notification"
+        app:showAsAction="always"/>
+
+
+
+
+</menu>

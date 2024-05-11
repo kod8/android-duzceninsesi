@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "705215113303",
+    "project_id": "duzcenin-sesi-6a4b3",
+    "storage_bucket": "duzcenin-sesi-6a4b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705215113303:android:9485f7f2cf5aeb6851db12",
+        "android_client_info": {
+          "package_name": "serbay.duzceninsesi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "705215113303-7f855s6jcjh9iiku346s0q7dmvmr09fp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg6JRjUIPc077j_b1EdGtkIhzNSSMhES0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "705215113303-7f855s6jcjh9iiku346s0q7dmvmr09fp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
